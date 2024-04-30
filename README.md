@@ -25,7 +25,10 @@ Feel free to contribute to the project by submitting bug fixes, enhancements, or
 
 Happy monitoring!
 
-![Screenshot](https://github.com/snnat/File-Integrity-Monitor/pictures/master/Screenshot(491).png?raw=true)
+![Screenshot](https://github.com/snnat/File-Integrity-Monitor/pictures/master/screenshot1.png?raw=true)
+![Screenshot](https://github.com/snnat/File-Integrity-Monitor/pictures/master/screenshot2.png?raw=true)
+![Screenshot](https://github.com/snnat/File-Integrity-Monitor/pictures/master/screenshot3.png?raw=true)
+
 
 
 
